@@ -1,4 +1,4 @@
-# ASLnumberRecognitionproject
+![image](https://github.com/user-attachments/assets/aa821d04-ba94-4aca-94ae-0ac247f26f11)# ASLnumberRecognitionproject
 2024.
 gesture classification project using mediapipe
 
@@ -18,7 +18,8 @@ I wanted to extract significant features from landmark tensor, so I used relativ
 flip&rotation to prevent data bias..
 
 ![image](https://github.com/user-attachments/assets/000bbb34-e572-40ac-8c59-ad59eb0e5a45)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f2c03a54-9fa2-453c-9b30-76a5fa07c5f1)
+
 
 
 
