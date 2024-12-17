@@ -10,12 +10,16 @@ gesture classification project using mediapipe
 
 
 **About data preprocessing...**
+
 I wanted to extract significant features from landmark tensor, so I used relative coordinate(oriantation is wrist), and normalized the entire size of the skeleton. 
 ![image](https://github.com/user-attachments/assets/3d4c585e-c89e-44a4-873f-2c1a1f3d8daa)
 
 
+
 **data augmantation**
+
 flip&rotation to prevent data bias..
+
 
 ![image](https://github.com/user-attachments/assets/000bbb34-e572-40ac-8c59-ad59eb0e5a45)
 ![image](https://github.com/user-attachments/assets/f2c03a54-9fa2-453c-9b30-76a5fa07c5f1)
@@ -24,7 +28,9 @@ flip&rotation to prevent data bias..
 
 
 **What I learned**
+
 Importance of stratificaiton  --for trouble shooting
+
 simplifying the problem  --lower cost to iterate entire procee to solve problem..
 
 ![image](https://github.com/user-attachments/assets/a1ae76ab-b776-4f67-92c4-dd7b54571a53)
