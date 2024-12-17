@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/aa821d04-ba94-4aca-94ae-0ac247f26f11)# ASLnumberRecognitionproject
 2024.
+
 gesture classification project using mediapipe
 
 
