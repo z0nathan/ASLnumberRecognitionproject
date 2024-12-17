@@ -31,6 +31,6 @@ flip&rotation to prevent data bias..
 
 Importance of stratificaiton  --for trouble shooting
 
-simplifying the problem  --lower cost to iterate entire procee to solve problem..
+simplifying the problem  --lower cost to iterate entire process to solve problem..
 
 ![image](https://github.com/user-attachments/assets/a1ae76ab-b776-4f67-92c4-dd7b54571a53)
